@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nathan-portfolio/static/css/main.d095a71d.css",
+    "main.js": "/nathan-portfolio/static/js/main.a6202f1a.js",
+    "index.html": "/nathan-portfolio/index.html",
+    "main.d095a71d.css.map": "/nathan-portfolio/static/css/main.d095a71d.css.map",
+    "main.a6202f1a.js.map": "/nathan-portfolio/static/js/main.a6202f1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d095a71d.css",
+    "static/js/main.a6202f1a.js"
+  ]
+}
